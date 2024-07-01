@@ -1,5 +1,5 @@
 # alcruzProject-Functions-and-Errors
-MyContract is a Solidity smart contract that allows the contract owner to deposit and withdraw funds, and includes functionality to ensure certain conditions are always met. This contract is designed for educational purposes to demonstrate the usage of require, assert, and revert statements in Solidity.
+SimpleContract is a Solidity smart contract that allows the contract owner to deposit and withdraw funds, and includes functionality to ensure certain conditions are always met. This contract is designed for educational purposes to demonstrate the usage of require, assert, and revert statements in Solidity.
 
 ## Features
 - Owner-only functions: Certain functions can only be called by the contract owner.
@@ -58,7 +58,7 @@ contract SimpleContract {
 ```
 
 ## Setup Instructions
-1. Create a new file and name it MyContract.sol.
+1. Create a new file and name it SimpleContract.sol.
 2. Copy and paste the contract code into the newly created file.
 3. Select the "Solidity Compiler" in Remix.
 4. Ensure the compiler version is set to 0.8.0 or higher.
@@ -85,3 +85,6 @@ contract SimpleContract {
 - Click the emergencyWithdraw function to see the revert message.
 4. Get Balance
 - Click the getBalance function to view the current balance of the contract.
+
+## Author
+Althea Louise C. Cruz
