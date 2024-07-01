@@ -1,6 +1,9 @@
 # alcruzProject-Functions-and-Errors
 SimpleContract is a Solidity smart contract that allows the contract owner to deposit and withdraw funds, and includes functionality to ensure certain conditions are always met. This contract is designed for educational purposes to demonstrate the usage of require, assert, and revert statements in Solidity.
 
+## Project Submission Requirements
+- "For this project, write a smart contract that implements the require(), assert() and revert() statements."
+
 ## Features
 - Owner-only functions: Certain functions can only be called by the contract owner.
 - Deposit: Anyone can deposit ether into the contract.
